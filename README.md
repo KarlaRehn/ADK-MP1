@@ -7,6 +7,6 @@ MP1_3 beräknar den maximala summan av matriselement på en stig, med villkoren:
 2. Stigen slutar i [n][n], elementet längst ner till höger.
 3. Stigen går bara neråt och åt höger utom vid två undantagsfall, då stigen kan gå tillbaka dit den kom ifrån.
 
-Indatan är en matris med n^2 icke-negativa element. Programmet returnerar maxsumman och stigen, där stigen är en lista med den ruta stigen går igenom vid steg t på plats t.
+Indatan är en matris med n^2 icke-negativa heltal. Programmet returnerar maxsumman och stigen, där stigen är en lista med den ruta stigen går igenom vid steg t på plats t.
 
 
